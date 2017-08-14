@@ -1,8 +1,8 @@
 $(document).ready(function() {
-  $(".mauve").click(function() {
+  $(".clickable").click(function() {
     $(".mauve").toggle();
   })
-  $(".green").click(function() {
+  $(".clickable").click(function() {
       $(".green").toggle();
   })
 

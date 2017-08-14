@@ -5,6 +5,7 @@
 }
 
  .mauve {
+   display: none;
    background-color: #D0B4CD;
    color: #fff;
    padding: 3px;
@@ -16,6 +17,7 @@
  }
 
  .green {
+   display: none;
    background-color: #E6F6D5;
    color: #fff;
    padding: 3px;
@@ -26,6 +28,14 @@
    transform: scale(1.2);
  }
 
- .green: hover {
-   background-color: gold;
+ .clickable {
+   cursor: pointer;
+   color: #0088cc;
+ }
+
+ .mainRow {
+   padding: 33px;
+
+   text-align: center;
+   background-color: #F7F2E1;
  }
