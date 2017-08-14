@@ -1,0 +1,31 @@
+.jumbotron {
+  background-color: grey;
+  text-align: center;
+  color:
+}
+
+ .mauve {
+   background-color: #D0B4CD;
+   color: #fff;
+   padding: 3px;
+   text-align: center;
+ }
+ .mauve:hover {
+   background-color: #F0C8F5;
+   transform: scale(1.2);
+ }
+
+ .green {
+   background-color: #E6F6D5;
+   color: #fff;
+   padding: 3px;
+   text-align: center;
+ }
+ .green:hover {
+   background-color: #E9F1E1;
+   transform: scale(1.2);
+ }
+
+ .green: hover {
+   background-color: gold;
+ }
